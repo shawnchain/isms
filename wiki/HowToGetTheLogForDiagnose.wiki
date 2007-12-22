@@ -1,9 +1,7 @@
-#summary One-sentence summary of this page.
 #labels Featured
-
 = Instructions to get iSMS runtime log for problem diagnose  =
 
-iSMS by default will default the logging for performance reason, but if you got some problems or bugs, you probably active the logging mechanism in iSMS so that the author could locate the problem quickly.
+iSMS by default will have the logging disabled for performance reason, but if you got some problems or bugs, you probably need to active the logging mechanism so that to help the author to locate the problem more quickly.
 
 = Steps to active the logging =
 == For users who have ssh & bsd subsystem installed ==
