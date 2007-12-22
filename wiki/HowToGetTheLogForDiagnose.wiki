@@ -1,0 +1,22 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Instructions to get iSMS runtime log for problem diagnose  =
+
+iSMS by default will default the logging for performance reason, but if you got some problems or bugs, you probably active the logging mechanism in iSMS so that the author could locate the problem quickly.
+
+= Steps to active the logging =
+== For users who have ssh & bsd subsystem installed ==
+  * SSH into your iphone
+  * #cd /Applications/iSMS.app
+  * #touch isms.log
+  * exit
+
+== For users who only have iBricker ==
+  * Create a empty file named "isms.log"(case sensitive)
+  * upload the "isms.log" file to /Applications/iSMS.app with iBricker
+
+Now restart the iSMS application and try to reproduce the problem, iSMS should log all runtime debug information into this file. Then you can get the file and send to author.
+After that, please *DO REMEMBER* to remove this file otherwise the application performance would be very poor.
+
+Thank you for your help!
