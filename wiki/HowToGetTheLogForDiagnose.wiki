@@ -18,8 +18,11 @@ Now restart the iSMS application and try to reproduce the problem, iSMS should l
 After that, please *DO REMEMBER* to remove this file otherwise the application performance would be very poor.
 
 = IMPORTANT =
-Log file contains personal informations such as phone number and sms content, please do not post them or attach them in the public forum in case they're used by bad guys.
+You'd better reproduce the problem with some fake numbers/messages because the Log file contains personal informations such as phone number and sms content that you sent/received. 
 
-Please zip and protect them with password and send to me via email. and please don't let me know who r you :)
+PLEASE DO NOT post them or attach them in the public forum in case they're used by bad guys.
+
+Or You can zip and protect them with password and send to me via email. and please don't let me know who r you :) I promise will not use them for diagnose purpose only.(Who believe?)
+
 
 Thank you for your help!
