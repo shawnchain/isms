@@ -17,4 +17,9 @@ iSMS by default will have the logging disabled for performance reason, but if yo
 Now restart the iSMS application and try to reproduce the problem, iSMS should log all runtime debug information into this file. Then you can get the file and send to author.
 After that, please *DO REMEMBER* to remove this file otherwise the application performance would be very poor.
 
+= IMPORTANT =
+Log file contains personal informations such as phone number and sms content, please do not post them or attach them in the public forum in case they're used by bad guys.
+
+Please zip and protect them with password and send to me via email. and please don't let me know who r you :)
+
 Thank you for your help!
