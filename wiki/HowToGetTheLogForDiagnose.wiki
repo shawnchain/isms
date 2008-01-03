@@ -14,7 +14,7 @@ iSMS by default will have the logging disabled for performance reason, but if yo
   * Create a empty file named "isms.log"(case sensitive)
   * upload the "isms.log" file to /Applications/iSMS.app with iBricker
 
-Now restart the iSMS application and try to reproduce the problem, iSMS should log all runtime debug information into this file. Then you can get the file and send to author.
+Now restart the iSMS application(If you have iSMS run in the background, please also restart the SpringBoard) and try to reproduce the problem, iSMS should log all runtime debug information into this file. Then you can get the file and send to author.
 After that, please *DO REMEMBER* to remove this file otherwise the application performance would be very poor.
 
 = IMPORTANT =
