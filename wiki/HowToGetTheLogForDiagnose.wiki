@@ -8,7 +8,7 @@ iSMS by default will have the logging disabled for performance reason, but if yo
   * SSH into your iphone
   * #cd /Applications/iSMS.app
   * #touch isms.log
-  * chown mobile isms.log
+  * #chown mobile isms.log
   * exit
 
 == For users who only have iBricker ==
