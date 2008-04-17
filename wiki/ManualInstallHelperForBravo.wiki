@@ -31,7 +31,7 @@
 }}}
   then reboot.
 
- * If you accidentally turned off your SSH server, and could not see the springboard, don't be panic, just use some tool such as iBricker and put the backed up launch file `*com.apple.SpringBoard.plist*` back to the folder `*/System/Library/LaunchDaemons/*` and restart your phone, then everything will back.
+ * If you accidentally turned off your SSH server, and could not see the springboard, don't be panic, just use some tool such as iBricker and put the backed up launch file *`com.apple.SpringBoard.plist`* back to the folder *`/System/Library/LaunchDaemons/`* and restart your phone, then everything will back.
 
 == Finally ==
 Thank you brave people, for helping test this application. if you have any problems or found any bugs, please report it in the issue system.
