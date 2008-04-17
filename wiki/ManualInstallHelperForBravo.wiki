@@ -1,6 +1,6 @@
 #labels Featured
 = How to install iSMS helper manually = 
-Please leave this page as soon as possible if you're
+== Please leave this page as soon as possible if you're ==
  * Still using 1.1.1 or lower FW iPhone.
  * Using 1.1.2+ iPhone but not brave enough.
  * Totally noob on iPhone and SSH/Shell operation
