@@ -1,0 +1,40 @@
+#labels Featured
+= How to install iSMS helper manually = 
+Please leave this page as soon as possible if you're
+ * Still using 1.1.1 or lower FW iPhone.
+ * Using 1.1.2+ iPhone but not brave enough.
+ * Totally noob on iPhone and SSH/Shell operation
+
+== Welcome, brave people! ==
+  Since iSMS rc2 build 04/17, iSMS help can work with all FW, but because I have no 1.1.2+ iphone to test with, so the feature is disabled by default. (I do NOT want to bother my only 1.0.2 phone by reinstall FW back and forth, and you can help me to get a test phone by donating :)
+
+==  Well, enough, enough let's start now! ==
+ * First you need have SSH installed on your iPhone, and you can log into your iPhone with any term tool(such as Putty or SecureTTY)
+ * Use any tool to copy out the file */System/Library/LaunchDaemons/com.apple.SpringBoard.plist* on your iPhone for backup - (optional)
+ * SSH into your iPhone as root, and type in the following commands
+{{{
+#cd /Applications/iSMS.app
+#./iSMS -install
+}}}
+ * Now your springboard launch file has be changed, next step is to restart your springboard by the following command.
+{{{
+#/bin/launchctl unload /System/Library/LaunchDaemons/com.apple.SpringBoard.plist
+#/bin/launchctl load /System/Library/LaunchDaemons/com.apple.SpringBoard.plist
+}}}
+ * If you can see your springboard instead of the spinning icon, then you're done!
+
+== What's next ? ==
+ * Now you have iSMS helper installed and you can enable it in iSMS preference view. But if you met problem or want to remove this helper, follow the following command.
+{{{
+#cd /Applications/iSMS.app
+#./iSMS -uninstall
+}}}
+  then reboot.
+
+ * If you accidentally turned off your SSH server, and could not see the springboard, don't be panic, just use some tool such as iBricker and put the backed up launch file "com.apple.SpringBoard.plist" back to the folder "/System/Library/LaunchDaemons/" and restart your phone, then everything will back.
+
+== Finally ==
+Thank you brave people, for helping test this application. if you have any problems or found any bugs, please report it in the issue system.
+
+
+- Shawn
