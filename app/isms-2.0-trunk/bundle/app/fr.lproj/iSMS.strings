@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%d of %d</key>
+	<string>%d of %d</string>
+	<key>About</key>
+	<string>About</string>
+	<key>Back</key>
+	<string>Back</string>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>Cancel</key>
+	<string>Cancel</string>
+	<key>Contact</key>
+	<string>Contact</string>
+	<key>Delete</key>
+	<string>Delete</string>
+	<key>Delete this message ?</key>
+	<string>Delete this message ?</string>
+	<key>Done</key>
+	<string>Done</string>
+	<key>Draft(%d)</key>
+	<string>Draft(%d)</string>
+	<key>Edit</key>
+	<string>Edit</string>
+	<key>Forward Message</key>
+	<string>Forward Message</string>
+	<key>From:</key>
+	<string>From:</string>
+	<key>I am late, I will be there at</key>
+	<string>I am late, I will be there at</string>
+	<key>I will be arriving at</key>
+	<string>I will be arriving at</string>
+	<key>I'm at home. Please call</key>
+	<string>I'm at home. Please call</string>
+	<key>I'm at work. Please call</key>
+	<string>I'm at work. Please call</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>I'm in a meeting, call me later at</string>
+	<key>Inbox(%d)</key>
+	<string>Inbox(%d)</string>
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Inbox(total %d, unread %d)</string>
+	<key>Main</key>
+	<string>Main</string>
+	<key>Meeting is cancelled.</key>
+	<string>Meeting is cancelled.</string>
+	<key>Message</key>
+	<string>Message</string>
+	<key>Message is empty</key>
+	<string>Message is empty</string>
+	<key>Message sent failed</key>
+	<string>Message sent failed</string>
+	<key>Message sent successfully</key>
+	<string>Message sent successfully</string>
+	<key>Message(%d)</key>
+	<string>Message(%d)</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Shawn Chain, 2007</string>
+	<key>No</key>
+	<string>No</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Please call</key>
+	<string>Please call</string>
+	<key>Please check recipient's name</key>
+	<string>Please check recipient's name</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Please check your recipient and message content!</string>
+	<key>Preferences</key>
+	<string>Preferences</string>
+	<key>Prefs</key>
+	<string>Prefs</string>
+	<key>Reply Message</key>
+	<string>Reply Message</string>
+	<key>Run Background</key>
+	<string>Run Background</string>
+	<key>Search</key>
+	<string>search</string>
+	<key>See you at</key>
+	<string>See you at</string>
+	<key>See you in</key>
+	<string>See you in</string>
+	<key>Select a recipient</key>
+	<string>Select a recipient</string>
+	<key>Send</key>
+	<string>Send</string>
+	<key>Sending...</key>
+	<string>Sending...</string>
+	<key>Sent(%d)</key>
+	<string>Sent(%d)</string>
+	<key>Smiley</key>
+	<string>Smiley</string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Sorry, I can't help you on this.</string>
+	<key>Template</key>
+	<string>Template</string>
+	<key>Template List</key>
+	<string>Template List</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Thank you for using We-iSMS</string>
+	<key>To:</key>
+	<string>To:</string>
+	<key>Type here to search message</key>
+	<string>Type here to search message</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>You have unsaved message, \nAre you sure to quit ?</string>
+	<key>Yes</key>
+	<string>Yes</string>
+	<key>Yesterday</key>
+	<string>Yesterday</string>
+</dict>
+</plist>

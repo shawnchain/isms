@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Β© Shawn Chain, 2007</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>Αναζήτηση</string>
+	<key>About</key>
+	<string>Πληροφορίες</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Εισερχόμενα(σύνολο %d, νέα %d)</string>
+	<key>Inbox(%d)</key>
+	<string>Εισερχόμενα(%d)</string>
+	<key>Draft(%d)</key>
+	<string>Πρόχειρα(%d)</string>
+	<key>Sent(%d)</key>
+	<string>Απεσταλμένα(%d)</string>
+	<key>Message</key>
+	<string>Μήνυμα</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>Φάκελοι</string>
+	<key>Edit</key>
+	<string>Διόρθωση</string>
+	<key>Done</key>
+	<string>Ολοκλήρωση</string>
+	<key>Message(%d)</key>
+	<string>Μήνυμα(%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>Επιστροφή</string>
+	<key>From:</key>
+	<string>Από:</string>
+	<key>To:</key>
+	<string>Προς:</string>
+	<key>%d of %d</key>
+	<string>%d από %d</string>
+	<key>Delete</key>
+	<string>Διαγραφή</string>
+	<key>Cancel</key>
+	<string>Ακύρωση</string>
+	<key>Delete this message ?</key>
+	<string>Διαγραφή αυτού του μηνύματος;</string>
+	<key>Forward Message</key>
+	<string>Προώθηση Μηνύματος</string>
+	<key>Reply Message</key>
+	<string>Απάντηση</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>Νέο Μήνυμα</string>
+	<key>Please check recipient's name</key>
+	<string>Παρακαλώ ελέγξτε το όνομα του παραλήπτη</string>
+	<key>Message is empty</key>
+	<string>Το μήνυμα είναι κενό</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Παρακαλώ ελέγξτε το περιεχόμενο του παραλήπτη και του μηνύματος!</string>
+	<key>Message sent successfully</key>
+	<string>Το μήνυμα στάλθηκε με επιτυχία</string>
+	<key>Message sent failed</key>
+	<string>Η αποστολή του μηνύματος απέτυχε</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Yes</key>
+	<string>Ναι</string>
+	<key>No</key>
+	<string>Όχι</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>Δεν έχετε σώσει το μήνυμα, \nΣίγουρα θέλετε να επιστρέψετε;</string>
+	<key>Smiley</key>
+	<string>Εικονίδιο</string>
+	
+	<key>Contact</key>
+	<string>Επαφή</string>
+	<key>Template</key>
+	<string>Πρότυπο</string>
+	<key>Send</key>
+	<string>Αποστολή</string>
+
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>Πατήστε εδώ για αναζήτηση</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>Εχθές</string>
+	
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>Λίστα Προτύπων</string>
+	<key>I am late, I will be there at</key>
+	<string>Έχω αργήσει, θα είμαι εκεί στις</string>
+	<key>I will be arriving at</key>
+	<string>Θα φτάσω στις</string>
+	<key>I'm at home. Please call</key>
+	<string>Είμαι σπίτι. Πάρε με τηλέφωνο σε παρακαλώ</string>
+	<key>I'm at work. Please call</key>
+	<string>Είμαι στη δουλειά. Πάρε με τηλέφωνο σε παρακαλώ</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>Είμαι σε συνάντηση, πάρε με αργότερα στο</string>
+	<key>Meeting is cancelled.</key>
+	<string>Η συνάντηση ακυρώθηκε</string>
+	<key>Please call</key>
+	<string>Παρακαλώ πάρε με τηλέφωνο</string>
+	<key>See you at</key>
+	<string>Θα σε δω στο</string>
+	<key>See you in</key>
+	<string>Θα σε δω σε</string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Συγνώμη αλλά δεν μπορώ να σε βοηθήσω με αυτό</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Σας ευχαριστώ που χρησιμοποιείτε το We-iSMS</string>
+</dict>
+</plist>

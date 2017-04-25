@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Shawn Chain, 2007</string>
+	<key>Translator</key>
+	<string>Mickoz</string>
+
+	<!-- Main View -->
+	<key>Search</key>
+	<string>搜　索</string>
+	<key>About</key>
+	<string>關　於</string>
+
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>收件箱 (總數 %d, 未閱讀 %d)</string>
+	<key>Inbox(%d)</key>
+	<string>收件箱 (%d)</string>
+	<key>Draft(%d)</key>
+	<string>草稿 (%d)</string>
+	<key>Sent(%d)</key>
+	<string>發件箱 (%d)</string>
+	<key>Message</key>
+	<string>短　訊</string>
+
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>回主頁</string>
+	<key>Edit</key>
+	<string>編輯</string>
+	<key>Done</key>
+	<string>完成</string>
+	<key>Message(%d)</key>
+	<string>短訊(%d)</string>
+
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>返回</string>
+	<key>From:</key>
+	<string>來自:</string>
+	<key>To:</key>
+	<string>傳至:</string>
+	<key>%d of %d</key>
+	<string>%d of %d</string>
+	<key>Delete</key>
+	<string>刪除</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Delete this message ?</key>
+	<string>要刪除短訊嗎？</string>
+	<key>Forward Message</key>
+	<string>轉發短訊</string>
+	<key>Reply Message</key>
+	<string>回覆短訊</string>
+
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>新增短訊</string>
+	<key>Please check recipient's name</key>
+	<string>請檢查聯絡人是否正確</string>
+	<key>Message is empty</key>
+	<string>沒有短訊內容</string>
+	<key>Please check your recipient and message content!</key>
+	<string>請檢查聯絡人及短訊內容</string>
+	<key>Message sent successfully</key>
+	<string>短訊成功發送</string>
+	<key>Message sent failed</key>
+	<string>短訊發送失敗</string>
+	<key>OK</key>
+	<string>確定</string>
+	<key>Yes</key>
+	<string>是</string>
+	<key>No</key>
+	<string>否</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>您尚有未保存的短訊內容，是否要退出？</string>
+	<key>Smiley</key>
+	<string>情緒圖像</string>
+	<key>Contact</key>
+	<string>聯絡人</string>
+	<key>Template</key>
+	<string>罐頭短訊</string>
+	<key>Send</key>
+	<string>發送</string>
+
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>在這裡開始搜索</string>
+
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>昨天</string>
+
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>罐頭短訊</string>
+	<key>I am late, I will be there at</key>
+	<string>對不起！我遲一點才來到！</string>
+	<key>I will be arriving at</key>
+	<string>我會在XX點才到。</string>
+	<key>I'm at home. Please call</key>
+	<string>請打我屋企電話。</string>
+	<key>I'm at work. Please call</key>
+	<string>請打我公司電話。</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>我在開會，請稍後再打來。</string>
+	<key>Meeting is cancelled.</key>
+	<string>會議已取消</string>
+	<key>Please call</key>
+	<string>請撥</string>
+	<key>See you at</key>
+	<string>到時候見！</string>
+	<key>See you in</key>
+	<string>老地方見</string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>對不起！我幫不了你。</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>感謝您使用We-iSMS</string>
+
+	<key>Sending...</key>
+	<string>正在發出...</string>
+	<key>Select a recipient</key>
+	<string>選擇一位聯絡人</string>
+
+	<!-- preference view -->
+	<key>Run Background</key>
+	<string>幕後運行</string>
+
+	<key>Preferences</key>
+	<string>喜好設定</string>
+
+	<key>Prefs</key>
+	<string>設　定</string>
+
+</dict>
+</plist>

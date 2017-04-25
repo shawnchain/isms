@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Jurjen van Loon, 2008</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>Zoeken</string>
+	<key>About</key>
+	<string>Colofon</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Inkomend (%d, %d Nieuw)</string>
+	<key>Inbox(%d)</key>
+	<string>Inkomend (%d)</string>
+	<key>Draft(%d)</key>
+	<string>Concepten (%d)</string>
+	<key>Sent(%d)</key>
+	<string>Verstuurd (%d)</string>
+	<key>Message</key>
+	<string>Berichten</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>Berichten</string>
+	<key>Edit</key>
+	<string>Bewerk</string>
+	<key>Done</key>
+	<string>Klaar</string>
+	<key>Message(%d)</key>
+	<string>Bericht (%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>Terug</string>
+	<key>From:</key>
+	<string>Van:</string>
+	<key>To:</key>
+	<string>Aan:</string>
+	<key>%d of %d</key>
+	<string>%d van %d</string>
+	<key>Delete</key>
+	<string>Verwijder</string>
+	<key>Cancel</key>
+	<string>Annuleer</string>
+	<key>Delete this message ?</key>
+	<string>Bericht verwijderen?</string>
+	<key>Forward Message</key>
+	<string>Doorsturen</string>
+	<key>Reply Message</key>
+	<string>Reageren</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>Nieuw bericht</string>
+	<key>Please check recipient's name</key>
+	<string>Controleer ontvanger(s)</string>
+	<key>Message is empty</key>
+	<string>Bericht is leeg</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Controleer ontvanger(s) en bericht!</string>
+	<key>Message sent successfully</key>
+	<string>Bericht succesvol verzonden</string>
+	<key>Message sent failed</key>
+	<string>Bericht niet verzonden</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Yes</key>
+	<string>Ja</string>
+	<key>No</key>
+	<string>Nee</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>Bericht is niet opgeslagen, maak een keuze.</string>
+	<key>Smiley</key>
+	<string>Smileys</string>
+	
+	<key>Contact</key>
+	<string>Contacten</string>
+	<key>Template</key>
+	<string>Sjablonen</string>
+	<key>Send</key>
+	<string>Verzenden</string>
+
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>Geef zoekterm op ...</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>Gisteren</string>
+	
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>Sjablonen</string>
+	<key>I am late, I will be there at</key>
+	<string>Ik ben wat later, ik ben er om</string>
+	<key>I will be arriving at</key>
+	<string>Ik ben er om</string>
+	<key>I'm at home. Please call</key>
+	<string>Ik ben thuis. Bel me</string>
+	<key>I'm at work. Please call</key>
+	<string>Ik ben op mijn werk. Bel me</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>Ik zit in een vergadering, bel me om</string>
+	<key>Meeting is cancelled.</key>
+	<string>Vergadering gaat niet door.</string>
+	<key>Please call</key>
+	<string>Bel me alsjeblieft.</string>
+	<key>See you at</key>
+	<string>Zie je om</string>
+	<key>See you in</key>
+	<string>Zie je over</string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Sorry, daar kan ik je niet meer helpen.</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Bedankt voor het gebruiken van We-iSMS</string>
+	
+	<key>Sending...</key>
+	<string>Verzenden...</string>
+	
+	<key>Select a recipient</key>
+	<string>Selecteer contactpersoon</string>
+	
+	<!-- preference view -->
+	<key>Run Background</key>
+	<string>Op achtergrond</string>
+	
+	<key>Preferences</key>
+	<string>Voorkeuren</string>
+	
+	<key>Prefs</key>
+	<string>Voorkeuren</string>
+	
+
+
+	<!-- since 2008-01-05 -->
+	<key>Call</key>
+	<string>Bellen</string>
+	<key>Chat</key>
+	<string>Chat</string>
+	
+	<key>To</key>
+	<string>Aan:</string>
+	
+	<key>Select All</key>
+	<string>Alles Selecteren</string>
+
+	<key>Finish</key>
+	<string>Klaar</string>
+
+	<key>Confirmation</key>
+	<string>Bevestiging</string>
+
+	<key>Send this message out?</key>
+	<string>Bericht verzenden?</string>
+
+	<key>Send Confirmation</key>
+	<string>Verzendbevestiging</string>
+
+	<key>Save</key>
+	<string>Opslaan</string>	
+
+	<key>Save As Template</key>
+	<string>Opslaan als Sjabloon</string>
+	
+	<key>Don't Save</key>
+	<string>Niet opslaan</string>
+
+	<key>Enable SB Helper</key>
+	<string>SB Assistent</string>
+	
+	<key>ENABLE_SB_HELPER_NOTE</key>
+	<string>  * SpringBoard Assistent is nodig om iSMS de standaard SMS applicatie te maken.</string>
+	
+	<key>NEED_RESTART_ALERT</key>
+	<string>Er is een herstart vereist om de wijzigingen door te voeren.</string>
+	
+	<key>Restart Now</key>
+	<string>Nu herstarten</string>
+	<key>Restart Later</key>
+	<string>Later herstarten</string>
+	
+	<key>Default SMS App</key>
+	<string>iSMS als Standaard</string>
+	
+	<key>Auto Archive Messages</key>
+	<string>Auto Archiveren</string>
+	
+	<key>AUTO_ARCHIVE_NOTE</key>
+	<string>  * Gebruik Auto Archiveren om het 1000 berichten maximum te laten vervallen.</string>
+	
+	<key>Customized</key>
+	<string>Aangepast</string>
+	
+	<key>Stock</key>
+	<string>Standaard</string>
+	
+	<key>Edit Templates</key>
+	<string>Sjablonen bewerken</string>
+	
+	<key>Sending to</key>
+	<string>Bezig met verzenden aan</string>
+	
+	<key>SMS Black List</key>
+	<string>SMS Blokkeerlijst</string>
+	
+	<key>Edit Black List</key>
+	<string>Blokkeringen bewerken</string>
+	
+	<key>Add to Black List</key>
+	<string>Blokkeer</string>
+	
+	<key>Phone Number</key>
+	<string>Telefoonnummer</string>
+	
+	<key>Add</key>
+	<string>Voeg toe</string>
+	
+	<key>Delete and block</key>
+	<string>Verwijder en blokkeer</string>
+	
+</dict>
+</plist>

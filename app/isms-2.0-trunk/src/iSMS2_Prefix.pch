@@ -1,0 +1,42 @@
+//
+// Prefix header for all source files of the 'iSMS' target in the 'iSMS' project
+//
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#import "Util.h"
+#import "iPhoneDefs.h"
+#import "Log.h"
+
+#endif
+
+#ifndef RETAIN
+#define RETAIN(var,val) \
+({ \
+id ___newVal = (val); \
+id ___oldVar = (var); \
+if (___oldVar != ___newVal) { \
+if (___newVal != nil) { \
+[___newVal retain]; \
+} \
+var = ___newVal; \
+if (___oldVar != nil) { \
+[___oldVar release]; \
+} \
+} \
+})
+#endif
+
+#ifndef RELEASE
+#define RELEASE(var) \
+({ \
+id	___oldVar = (id)(var); \
+if (___oldVar != nil) { \
+var = nil; \
+[___oldVar release]; \
+} \
+})
+#endif
+

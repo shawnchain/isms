@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Shawn Chain, 2007</string>
+	<key>Translator</key>
+	<string>Tomas Sigmund</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>Hledat</string>
+	<key>About</key>
+	<string>O programu</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Přijaté( %d, nepřečtené %d)</string>
+	<key>Inbox(%d)</key>
+	<string>Přijaté(%d)</string>
+	<key>Draft(%d)</key>
+	<string>Uložené(%d)</string>
+	<key>Sent(%d)</key>
+	<string>Odeslané(%d)</string>
+	<key>Message</key>
+	<string>Zprávy</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>Hlavní</string>
+	<key>Edit</key>
+	<string>Upravit</string>
+	<key>Done</key>
+	<string>Hotovo</string>
+	<key>Message(%d)</key>
+	<string>Zpráva(%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>Zpět</string>
+	<key>From:</key>
+	<string>Od:</string>
+	<key>To:</key>
+	<string>Komu:</string>
+	<key>%d of %d</key>
+	<string>%d z %d</string>
+	<key>Delete</key>
+	<string>Smazat</string>
+	<key>Cancel</key>
+	<string>Zrušit</string>
+	<key>Delete this message ?</key>
+	<string>Smazat tuto zprávu ?</string>
+	<key>Forward Message</key>
+	<string>Přeposlat zprávu</string>
+	<key>Reply Message</key>
+	<string>Odpovědět</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>Nová zpráva</string>
+	<key>Please check recipient's name</key>
+	<string>Zkontrolujte jméno příjemce</string>
+	<key>Message is empty</key>
+	<string>Zpráva je prázdná</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Zkontrolujte příjemce a obsah zprávy!</string>
+	<key>Message sent successfully</key>
+	<string>Zpráva byla odeslána</string>
+	<key>Message sent failed</key>
+	<string>Odeslání selhalo</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Yes</key>
+	<string>Ano</string>
+	<key>No</key>
+	<string>Ne</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>Máte neuloženou zprávu, opravdu chcete odejít ?</string>
+	<key>Smiley</key>
+	<string>Smiley</string>
+	
+	<key>Contact</key>
+	<string>Kontakt</string>
+	<key>Template</key>
+	<string>Šablona</string>
+	<key>Send</key>
+	<string>Odeslat</string>
+
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>Hledání ve zprávách</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>Včera</string>
+	
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>Šablony</string>
+	<key>I am late, I will be there at</key>
+	<string>Mam zpozdeni, dorazim v</string>
+	<key>I will be arriving at</key>
+	<string>Prijedu v</string>
+	<key>I'm at home. Please call</key>
+	<string>Jsem doma. Zavolej mi</string>
+	<key>I'm at work. Please call</key>
+	<string>Jsem v praci. Zavolej mi</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>Jsem na jednani, zavolej prosim pozdeji</string>
+	<key>Meeting is cancelled.</key>
+	<string>Schuzka je zrusena.</string>
+	<key>Please call</key>
+	<string>Zavolej mi, prosim</string>
+	<key>See you at</key>
+	<string>Sejdeme se v</string>
+	<key>See you in</key>
+	<string>Uvidime se v</string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Promin, s tim ti nemohu pomoci.</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Děkujeme za použití We-iSMS</string>
+</dict>
+</plist>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Shawn Chain, 2007</string>
+	<key>Translator</key>
+	<string>CCRDude / Ricardo Bartels</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>Suchen</string>
+	<key>Prefs</key>
+	<string>Einstellungen</string>
+	<key>About</key>
+	<string>Infos</string>
+	
+	<!-- Preferences View -->
+	<key>Preferences</key>
+	<string>Einstellungen</string>
+	<key>Run Background</key>
+	<string>Im Hintergrund</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Eingang (gesamt %d, ungelesen %d)</string>
+	<key>Inbox(%d)</key>
+	<string>Eingang (%d)</string>
+	<key>Draft(%d)</key>
+	<string>Entwürfe (%d)</string>
+	<key>Sent(%d)</key>
+	<string>Gesendet (%d)</string>
+	<key>Message</key>
+	<string>Nachrichten</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>Übersicht</string>
+	<key>Edit</key>
+	<string>Bearbeiten</string>
+	<key>Done</key>
+	<string>Fertig</string>
+	<key>Message(%d)</key>
+	<string>Nachricht (%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>Zurück</string>
+	<key>From:</key>
+	<string>Von:</string>
+	<key>To:</key>
+	<string>An:</string>
+	<key>%d of %d</key>
+	<string>%d von %d</string>
+	<key>Delete</key>
+	<string>Löschen</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>Delete this message ?</key>
+	<string>Diese Nachricht löschen?</string>
+	<key>Forward Message</key>
+	<string>Weiterleiten</string>
+	<key>Reply Message</key>
+	<string>Antworten</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>Neue Nachricht</string>
+	<key>Please check recipient's name</key>
+	<string>Bitte den Empfänger überprüfen</string>
+	<key>Message is empty</key>
+	<string>Nachricht ist leer</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Bitte den Empfänger und den Inhalt überprüfen!</string>
+	<key>Message sent successfully</key>
+	<string>Nachricht erfolgreich versendet</string>
+	<key>Message sent failed</key>
+	<string>Versenden der Nachricht fehlgeschalgen</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Yes</key>
+	<string>Ja</string>
+	<key>No</key>
+	<string>Nein</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>Sie haben die Nachricht noch nicht gespeichert. Wollen Sie wirklich beenden?</string>
+	<key>Smiley</key>
+	<string>Smilies</string>
+	
+	<key>Contact</key>
+	<string>Kontakte</string>
+	<key>Template</key>
+	<string>Vorlagen</string>
+	<key>Send</key>
+	<string>Senden</string>
+
+	<!-- Message Search View -->
+	<key>Type here to search message</key>
+	<string>Hier Suchtext eingeben</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>Gestern</string>
+
+	<!-- German Weakdays, please Instert into your app -->
+	<key>Monday</key>
+	<string>Montag</string>
+	<key>Tuesday</key>
+	<string>Dienstag</string>
+	<key>Wednesday</key>
+	<string>Mittwoch</string>
+	<key>Thursday</key>
+	<string>Donnerstag</string>
+	<key>Friday</key>
+	<string>Freitag</string>
+	<key>Saturday</key>
+	<string>Samstag</string>
+	<key>Sunday</key>
+	<string>Sonntag</string>
+	
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>Vorlagen</string>
+	<key>I am late, I will be there at</key>
+	<string>Ich habe mich verspätet, komme gegen </string>
+	<key>I will be arriving at</key>
+	<string>Ich komme um </string>
+	<key>I'm at home. Please call</key>
+	<string>Ich bin zuhause. Bitte rufen Sie zurück unter </string>
+	<key>I'm at work. Please call</key>
+	<string>Ich bin auf der Arbeit. Bitte rufen Sie zurück unter </string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>Ich bin in einer Besprechung. Bitte rufen Sie mich später zurück unter </string>
+	<key>Meeting is cancelled.</key>
+	<string>Die Besprechung wurde abgesagt.</string>
+	<key>Please call</key>
+	<string>Bitte rufen Sie </string>
+	<key>See you at</key>
+	<string>Wir sehen uns am </string>
+	<key>See you in</key>
+	<string>Wir sehen uns in </string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Tut mir leid, dabei kann ich Ihnen nicht helfen.</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Danke, daß Sie We-iSMS verwenden</string>
+	
+	<key>Sending...</key>
+	<string>Senden...</string>
+	
+	<key>Select a recipient</key>
+	<string>Empfänger auswählen</string>
+
+</dict>
+</plist>

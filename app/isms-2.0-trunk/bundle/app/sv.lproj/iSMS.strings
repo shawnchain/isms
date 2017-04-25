@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Â© Shawn Chain, 2007</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>sök</string>
+	<key>About</key>
+	<string>Om...</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Inkorg(totalt %d, oläst %d)</string>
+	<key>Inbox(%d)</key>
+	<string>Inkorg(%d)</string>
+	<key>Draft(%d)</key>
+	<string>Utkast(%d)</string>
+	<key>Sent(%d)</key>
+	<string>Skickat(%d)</string>
+	<key>Message</key>
+	<string>Meddelande</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>Huvudmenu</string>
+	<key>Edit</key>
+	<string>Skriv</string>
+	<key>Done</key>
+	<string>Klar</string>
+	<key>Message(%d)</key>
+	<string>Meddelande(%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>Tillbaka</string>
+	<key>From:</key>
+	<string>Från:</string>
+	<key>To:</key>
+	<string>Till:</string>
+	<key>%d of %d</key>
+	<string>%d av %d</string>
+	<key>Delete</key>
+	<string>Släng</string>
+	<key>Cancel</key>
+	<string>Avbryt</string>
+	<key>Delete this message ?</key>
+	<string>Ta bort meddelandet?</string>
+	<key>Forward Message</key>
+	<string>Vidarebefordra</string>
+	<key>Reply Message</key>
+	<string>Besvara</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>Skapa Meddelande</string>
+	<key>Please check recipient's name</key>
+	<string>Kontrollera mottagarens namn!</string>
+	<key>Message is empty</key>
+	<string>Meddelandet är tomt</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Kolla mottagaren och innehållet!</string>
+	<key>Message sent successfully</key>
+	<string>Meddelandet skickat</string>
+	<key>Message sent failed</key>
+	<string>Sändningen misslyckades</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Yes</key>
+	<string>Ja</string>
+	<key>No</key>
+	<string>Nej</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>Meddelandet är osparat. Är du säker att du vill avbryta?</string>
+	<key>Smiley</key>
+	<string>Emoticon</string>
+	
+	<key>Contact</key>
+	<string>Kontakter</string>
+	<key>Template</key>
+	<string>Mall</string>
+	<key>Send</key>
+	<string>Skicka</string>
+
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>Skriv här för att söka efter meddelanden</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>Igår</string>
+	
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>Mallista</string>
+	<key>I am late, I will be there at</key>
+	<string>Jag är sen. Jag är där om </string>
+	<key>I will be arriving at</key>
+	<string>Jag anländer kl </string>
+	<key>I'm at home. Please call</key>
+	<string>Jag är hemma. Ring mig!</string>
+	<key>I'm at work. Please call</key>
+	<string>Jag är på jobbet. Ring mig</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>Jag är i möte. Ring mig senare på </string>
+	<key>Meeting is cancelled.</key>
+	<string>Mötet är inställt.</string>
+	<key>Please call</key>
+	<string>Ring mig!</string>
+	<key>See you at</key>
+	<string>Vi ses vid</string>
+	<key>See you in</key>
+	<string>Vi ses om </string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Tyvärr, jag kan inte hjälpa dig med det.</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Tack för att du använder We-iSMS</string>
+</dict>
+</plist>
+

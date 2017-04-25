@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Shawn Chain, 2007</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>Поиск</string>
+	<key>About</key>
+	<string>О продукте</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Входящие(всего %d, непрочитанных %d)</string>
+	<key>Inbox(%d)</key>
+	<string>Входящие(%d)</string>
+	<key>Draft(%d)</key>
+	<string>Черновики(%d)</string>
+	<key>Sent(%d)</key>
+	<string>Отправленные(%d)</string>
+	<key>Message</key>
+	<string>Сообщения</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>Главная</string>
+	<key>Edit</key>
+	<string>Изменить</string>
+	<key>Done</key>
+	<string>Готово</string>
+	<key>Message(%d)</key>
+	<string>Сообщения(%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>Назад</string>
+	<key>From:</key>
+	<string>От:</string>
+	<key>To:</key>
+	<string>Кому:</string>
+	<key>%d of %d</key>
+	<string>%d из %d</string>
+	<key>Delete</key>
+	<string>Удалить</string>
+	<key>Cancel</key>
+	<string>Отмена</string>
+	<key>Delete this message ?</key>
+	<string>Удалить это сообщение ?</string>
+	<key>Forward Message</key>
+	<string>Переслать сообщение</string>
+	<key>Reply Message</key>
+	<string>Ответить на сообщение</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>Новое сообщение</string>
+	<key>Please check recipient's name</key>
+	<string>Пожалуйста проверьте имя получателя</string>
+	<key>Message is empty</key>
+	<string>Сообщение пустое</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Пожалуйста проверьте вашего получателя и содержимое сообщения!</string>
+	<key>Message sent successfully</key>
+	<string>Сообщение отправлено успешно</string>
+	<key>Message sent failed</key>
+	<string>Ошибка отправки сообщения</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Yes</key>
+	<string>Да</string>
+	<key>No</key>
+	<string>Нет</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>У Вас есть несохранённые сообщения, \nВы уверены что хотите выйти ?</string>
+	<key>Smiley</key>
+	<string>Смайлы</string>
+	
+	<key>Contact</key>
+	<string>Контакт</string>
+	<key>Template</key>
+	<string>Шаблон</string>
+	<key>Send</key>
+	<string>Отправить</string>
+
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>Пишите здесь для поиска сообщения</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>Вчера</string>
+	
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>Список шаблонов</string>
+	<key>I am late, I will be there at</key>
+	<string>Я опаздываю, я буду там в</string>
+	<key>I will be arriving at</key>
+	<string>Я приеду в</string>
+	<key>I'm at home. Please call</key>
+	<string>Я дома. Пожалуйста позвоните</string>
+	<key>I'm at work. Please call</key>
+	<string>Я на работе. Пожалуйста позвоните</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>Я на встрече, перезвоните мне позже в</string>
+	<key>Meeting is cancelled.</key>
+	<string>Встреча отменяется.</string>
+	<key>Please call</key>
+	<string>Пожалуйста позвоните</string>
+	<key>See you at</key>
+	<string>Увидемся в</string>
+	<key>See you in</key>
+	<string>Увидемся на</string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Извините, я не могу помочь Вам в этом.</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Спасибо за использование We-iSMS</string>
+</dict>
+</plist>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Shawn Chain, 2007</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>Busca</string>
+	<key>About</key>
+	<string>Sobre</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Cx Entrada(total %d, novas %d)</string>
+	<key>Inbox(%d)</key>
+	<string>Cx Entrada(%d)</string>
+	<key>Draft(%d)</key>
+	<string>Rascunhos(%d)</string>
+	<key>Sent(%d)</key>
+	<string>Enviados(%d)</string>
+	<key>Message</key>
+	<string>Mensagens</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>Pastas</string>
+	<key>Edit</key>
+	<string>Editar</string>
+	<key>Done</key>
+	<string>Ok</string>
+	<key>Message(%d)</key>
+	<string>Mensagem(%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>Voltar</string>
+	<key>From:</key>
+	<string>De:</string>
+	<key>To:</key>
+	<string>Para:</string>
+	<key>%d of %d</key>
+	<string>%d de %d</string>
+	<key>Delete</key>
+	<string>Apagar</string>
+	<key>Cancel</key>
+	<string>Cancelar</string>
+	<key>Delete this message ?</key>
+	<string>Apagar este SMS?</string>
+	<key>Forward Message</key>
+	<string>Encaminhar SMS</string>
+	<key>Reply Message</key>
+	<string>Responder SMS</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>Novo SMS</string>
+	<key>Please check recipient's name</key>
+	<string>Selecione um destinatario</string>
+	<key>Message is empty</key>
+	<string>SMS esta vazio</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Observe os destinatarios e conteudo do SMS!</string>
+	<key>Message sent successfully</key>
+	<string>SMS Enviado</string>
+	<key>Message sent failed</key>
+	<string>Envio do SMS falhou</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Yes</key>
+	<string>Sim</string>
+	<key>No</key>
+	<string>Nao</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>Deseja sair sem enviar o SMS ?</string>
+	<key>Smiley</key>
+	<string>Smiley</string>
+	
+	<key>Contact</key>
+	<string>Contato</string>
+	<key>Template</key>
+	<string>Modelo</string>
+	<key>Send</key>
+	<string>Enviar</string>
+
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>Procurar SMS, digite aqui</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>Ontem</string>
+	
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>Modelos</string>
+	<key>I am late, I will be there at</key>
+	<string>Estou atrasado, chego em </string>
+	<key>I will be arriving at</key>
+	<string>Vou estar chegando as </string>
+	<key>I'm at home. Please call</key>
+	<string>Estou em casa, ligue </string>
+	<key>I'm at work. Please call</key>
+	<string>Estou no trabalho, ligue </string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>Estou em reuniao, ligue-me depois das </string>
+	<key>Meeting is cancelled.</key>
+	<string>Reuniao cancelada.</string>
+	<key>Please call</key>
+	<string>Ligue no </string>
+	<key>See you at</key>
+	<string>Vejo voce as </string>
+	<key>See you in</key>
+	<string>Te encontro em </string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Desculpa, nao tenho como ver isso agora.</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Obrigado por usar o We-iSMS</string>
+</dict>
+</plist>

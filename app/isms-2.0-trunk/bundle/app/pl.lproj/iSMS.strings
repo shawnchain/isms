@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Webski Edgar, 2008</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>szukaj</string>
+	<key>About</key>
+	<string>O iSMS</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Odebrane (%d, %d Nowych)</string>
+	<key>Inbox(%d)</key>
+	<string>Odebrane (%d)</string>
+	<key>Draft(%d)</key>
+	<string>Kopie Robocze (%d)</string>
+	<key>Sent(%d)</key>
+	<string>Wysłane (%d)</string>
+	<key>Message</key>
+	<string>Wiadomości</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>Wiadomości</string>
+	<key>Edit</key>
+	<string>Edytuj</string>
+	<key>Done</key>
+	<string>Gotowe</string>
+	<key>Message(%d)</key>
+	<string>Wiadomość (%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>Powrót</string>
+	<key>From:</key>
+	<string>Od:</string>
+	<key>To:</key>
+	<string>Do:</string>
+	<key>%d of %d</key>
+	<string>%d z %d</string>
+	<key>Delete</key>
+	<string>Usuń</string>
+	<key>Cancel</key>
+	<string>Anuluj</string>
+	<key>Delete this message ?</key>
+	<string>Usunąć tę wiadomość ?</string>
+	<key>Forward Message</key>
+	<string>Prześlij dalej</string>
+	<key>Reply Message</key>
+	<string>Odpowiedz</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>Nowa wiadomość</string>
+	<key>Please check recipient's name</key>
+	<string>Sprawdź dane odbiorcy(ów) proszę</string>
+	<key>Message is empty</key>
+	<string>Wiadomość jest pusta</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Sprawdź dane odbiorcy i treść wiadomości !</string>
+	<key>Message sent successfully</key>
+	<string>Wiadomość została wysłana</string>
+	<key>Message sent failed</key>
+	<string>Błąd podczas wysyłania</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Yes</key>
+	<string>Tak</string>
+	<key>No</key>
+	<string>Nie</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>Nie zapisano wiadomości, zakończyć ?</string>
+	<key>Smiley</key>
+	<string>Buźki</string>
+	
+	<key>Contact</key>
+	<string>Kontakty</string>
+	<key>Template</key>
+	<string>Szablony</string>
+	<key>Send</key>
+	<string>Wyślij</string>
+
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>Wpisz szukaną frazę ...</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>Wczoraj</string>
+	
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>Szblony</string>
+	<key>I am late, I will be there at</key>
+	<string>Spóźniam się, będę o</string>
+	<key>I will be arriving at</key>
+	<string>Przyjeżdżam o</string>
+	<key>I'm at home. Please call</key>
+	<string>Jestem w domu. Zadzwoń proszę</string>
+	<key>I'm at work. Please call</key>
+	<string>Jestem w pracy. Zadzwoń proszę</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>Jestem na spotkaniu, zadzwoń około</string>
+	<key>Meeting is cancelled.</key>
+	<string>Spotkanie odwołane.</string>
+	<key>Please call</key>
+	<string>Zadzwoń proszę</string>
+	<key>See you at</key>
+	<string>Do zobaczenia o</string>
+	<key>See you in</key>
+	<string>Do zobaczenia w</string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Przepraszam nie jestem w stanie ci pomóc.</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Dziękuje za uźywanie We-iSMS</string>
+	
+	<key>Sending...</key>
+	<string>Wysyłanie...</string>
+	
+	<key>Select a recipient</key>
+	<string>Wybierz odbiorcę</string>
+	
+	<!-- preference view -->
+	<key>Run Background</key>
+	<string>Uruchamiaj w tle</string>
+	
+	<key>Preferences</key>
+	<string>Ustawienia</string>
+	
+	<key>Prefs</key>
+	<string>Ustawienia</string>
+	
+
+
+	<!-- since 2008-01-05 -->
+	<key>Call</key>
+	<string>dzwoń</string>
+	<key>Chat</key>
+	<string>Chat</string>
+	
+	<key>To</key>
+	<string>Do</string>
+	
+	<key>Select All</key>
+	<string>Wszystkie</string>
+
+	<key>Finish</key>
+	<string>Zakończ</string>
+
+	<key>Confirmation</key>
+	<string>Potwierdzenie</string>
+
+	<key>Send this message out?</key>
+	<string>Wysłać tę wiadomość ?</string>
+
+	<key>Send Confirmation</key>
+	<string>Pytaj zanim wyślę</string>
+
+	<key>Save</key>
+	<string>Zapisz</string>	
+
+	<key>Save As Template</key>
+	<string>Zapisz jako szablon</string>
+	
+	<key>Don't Save</key>
+	<string>Nie zapisuj</string>
+
+	<key>Enable SB Helper</key>
+	<string>Włącz SB Helper</string>
+	
+	<key>ENABLE_SB_HELPER_NOTE</key>
+	<string>  * Włączając SpringBoard helper'a, iSMS może w pełni zastąpić domyślną aplikację SMS apple.</string>
+	
+	<key>NEED_RESTART_ALERT</key>
+	<string>Musisz zrestartować SpringBoard aby zmiany zostały wprowadzone</string>
+	
+	<key>Restart Now</key>
+	<string>Zrestartuj Teraz</string>
+	<key>Restart Later</key>
+	<string>Zrestartuję Później</string>
+	
+	<key>Default SMS App</key>
+	<string>Domyślna Aplikacja</string>
+	
+	<key>Auto Archive Messages</key>
+	<string>Auto archiwizacja</string>
+	
+	<key>AUTO_ARCHIVE_NOTE</key>
+	<string>  * Włączając auto archiwizację, pozbywasz się limitu 1000 wiadomości.</string>
+	
+	<key>Customized</key>
+	<string>Twoje</string>
+	
+	<key>Stock</key>
+	<string>Domyślne</string>
+	
+	<key>Edit Templates</key>
+	<string>Edytuj Szablony</string>
+	
+	<key>Sending to</key>
+	<string>Wysyłanie do</string>
+	
+	<key>SMS Black List</key>
+	<string>Czarna Lista - SMS</string>
+	
+	<key>Edit Black List</key>
+	<string>Edytuj Czarną Listę</string>
+	
+	<key>Add to Black List</key>
+	<string>Dodaj do Czarnej Listy</string>
+	
+	<key>Phone Number</key>
+	<string>Numer Telefonu</string>
+	
+	<key>Add</key>
+	<string>Dodaj</string>
+	
+	<key>Delete and block</key>
+	<string>Kasuj i blokuj</string>
+	
+</dict>
+</plist>

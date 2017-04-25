@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Shawn Chain, 2007</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>Søk</string>
+	<key>About</key>
+	<string>Om</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>Innboks (%d, %d ulest)</string>
+	<key>Inbox(%d)</key>
+	<string>Innboks (%d)</string>
+	<key>Draft(%d)</key>
+	<string>Utkast (%d)</string>
+	<key>Sent(%d)</key>
+	<string>Sendt (%d)</string>
+	<key>Message</key>
+	<string>Mapper</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>Mapper</string>
+	<key>Edit</key>
+	<string>Rediger</string>
+	<key>Done</key>
+	<string>Ferdig</string>
+	<key>Message(%d)</key>
+	<string>Melding (%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>Innboks</string>
+	<key>From:</key>
+	<string>Fra:</string>
+	<key>To:</key>
+	<string>Til:</string>
+	<key>%d of %d</key>
+	<string>%d av %d</string>
+	<key>Delete</key>
+	<string>Slette melding</string>
+	<key>Cancel</key>
+	<string>Avbryt</string>
+	<key>Delete this message ?</key>
+	<string></string>
+	<key>Forward Message</key>
+	<string>Videresend</string>
+	<key>Reply Message</key>
+	<string>Svar</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>Ny melding</string>
+	<key>Please check recipient's name</key>
+	<string>Kontroller mottakers navn</string>
+	<key>Message is empty</key>
+	<string>Meldingsfeltet er tomt</string>
+	<key>Please check your recipient and message content!</key>
+	<string>Kontroller mottaker og meldingsfeltet</string>
+	<key>Message sent successfully</key>
+	<string>Melding sendt</string>
+	<key>Message sent failed</key>
+	<string>Sendingen feilet!</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Yes</key>
+	<string>Forkast</string>
+	<key>No</key>
+	<string>Avbryt</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>Meldingen er ikke lagret!</string>
+	<key>Smiley</key>
+	<string>Smileyer</string>
+	
+	<key>Contact</key>
+	<string>Kontakter</string>
+	<key>Template</key>
+	<string>Maler</string>
+	<key>Send</key>
+	<string>Send</string>
+
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>Søk blant meldinger</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>Igår</string>
+	
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>Maler</string>
+	<key>I am late, I will be there at</key>
+	<string>Blir forsinket, er der rundt </string>
+	<key>I will be arriving at</key>
+	<string>Jeg kommer kl. </string>
+	<key>I'm at home. Please call</key>
+	<string>Jeg er hjemme. Ring </string>
+	<key>I'm at work. Please call</key>
+	<string>Er på jobb. Ring </string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>Er i møte. Ring meg senere</string>
+	<key>Meeting is cancelled.</key>
+	<string>Møtet er avlyst. </string>
+	<key>Please call</key>
+	<string>Ring meg</string>
+	<key>See you at</key>
+	<string>Ser deg kl. </string>
+	<key>See you in</key>
+	<string>Ser deg om </string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>Beklager, kan ikke hjelpe deg med dette.</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>Takk for at du bruker We-iSMS</string>
+	
+	<key>Sending...</key>
+	<string>Sender</string>
+	
+	<key>Select a recipient</key>
+	<string>Velg en mottaker</string>
+	
+	<!-- More, new version -->
+	<key>Prefs</key>
+	<string>Innstillinger</string>
+	<key>Preferences</key>
+	<string>Innstillinger</string>
+	<key>Run Background</key>
+	<string>Kjør i bakgrunnen</string>
+	
+</dict>
+</plist>

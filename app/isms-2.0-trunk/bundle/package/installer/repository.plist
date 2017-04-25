@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>info</key>
+		<dict>
+			<key>category</key>
+			<string>Shawn Chain's Sources</string>
+			<key>contact</key>
+			<string>shawn.chain@gmail.com</string>
+			<key>description</key>
+			<string>Installer source for iSMS</string>
+			<key>maintainer</key>
+			<string>Shawn Chain</string>
+			<key>name</key>
+			<string>Shawn Chain's Source</string>
+			<key>url</key>
+			<string>http://iphone.nonsoft.com/</string>
+		</dict>
+		<key>packages</key>
+		<array/>
+	</dict>
+</plist>

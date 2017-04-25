@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Shawn Chain, 2007</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>検索</string>
+	<key>About</key>
+	<string>約</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>受信トレイ(总计 %d, 未读 %d)</string>
+	<key>Inbox(%d)</key>
+	<string>受信トレイ(%d)</string>
+	<key>Draft(%d)</key>
+	<string>ドラフト(%d)</string>
+	<key>Sent(%d)</key>
+	<string>送信(%d)</string>
+	<key>Message</key>
+	<string>メッセージ</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>メイン</string>
+	<key>Edit</key>
+	<string>編集</string>
+	<key>Done</key>
+	<string>完了</string>
+	<key>Message(%d)</key>
+	<string>メッセージ(%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>背面</string>
+	<key>From:</key>
+	<string>から:</string>
+	<key>To:</key>
+	<string>を:</string>
+	<key>%d of %d</key>
+	<string>%d の %d</string>
+	<key>Delete</key>
+	<string>削除</string>
+	<key>Cancel</key>
+	<string>キャンセル</string>
+	<key>Delete this message ?</key>
+	<string>このメッセージを削除？</string>
+	<key>Forward Message</key>
+	<string>メッセージを転送する</string>
+	<key>Reply Message</key>
+	<string>応答メッセージ</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>新しいメッセージ</string>
+	<key>Please check recipient's name</key>
+	<string>受取人の氏名を確認してください。</string>
+	<key>Message is empty</key>
+	<string>メッセージが空</string>
+	<key>Please check your recipient and message content!</key>
+	<string>受信者やメッセージの内容を確認してください！</string>
+	<key>Message sent successfully</key>
+	<string>正常に送信されたメッセージ</string>
+	<key>Message sent failed</key>
+	<string>メッセージの送信に失敗しました</string>
+	<key>OK</key>
+	<string>分かったよ</string>
+	<key>Yes</key>
+	<string>はい</string>
+	<key>No</key>
+	<string>いいえ</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>メッセージが保存されていない場合は、終了してもよろしいですか？</string>
+	<key>Smiley</key>
+	<string>スマイリー</string>
+	<key>Contact</key>
+	<string>接触</string>
+	<key>Template</key>
+	<string>テンプレート</string>
+	<key>Send</key>
+	<string>送信</string>
+	
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>ここにメッセージを入力して検索する</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>昨日</string>
+
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>テンプレートのリスト</string>
+	<key>I am late, I will be there at</key>
+	<string>私は後半には、私はそこで</string>
+	<key>I will be arriving at</key>
+	<string>私が到着</string>
+	<key>I'm at home. Please call</key>
+	<string>私は自宅で。までお電話ください。</string>
+	<key>I'm at work. Please call</key>
+	<string>私は仕事中です。までお電話ください。</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>私は、会議で、それ以降に電話してね</string>
+	<key>Meeting is cancelled.</key>
+	<string>会議室はキャンセルされます。</string>
+	<key>Please call</key>
+	<string>までお電話ください。</string>
+	<key>See you at</key>
+	<string>あなたを参照してください</string>
+	<key>See you in</key>
+	<string>お会いしましょう</string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>申し訳ありませんが、私はこのことができない役立ちます。</string>
+	<key>Thank you for using We-iSMS</key>
+	<string>我々をご利用いただきありがとうございます- iSMS</string>
+	
+	<key>Sending...</key>
+	<string>送信...</string>
+	<key>Select a recipient</key>
+	<string>レシピエントを選択する</string>
+</dict>
+</plist>

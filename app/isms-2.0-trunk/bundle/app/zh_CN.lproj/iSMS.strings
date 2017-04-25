@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>iSMS</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© Shawn Chain, 2007</string>
+	
+	<!-- Main View -->
+	<key>Search</key>
+	<string>搜　索</string>
+	<key>About</key>
+	<string>关　于</string>
+	
+	<!-- Message Main View -->
+	<key>Inbox(total %d, unread %d)</key>
+	<string>收件箱(总计 %d, 未读 %d)</string>
+	<key>Inbox(%d)</key>
+	<string>收件箱(%d)</string>
+	<key>Draft(%d)</key>
+	<string>草稿(%d)</string>
+	<key>Sent(%d)</key>
+	<string>发件箱(%d)</string>
+	<key>Message</key>
+	<string>短　信</string>
+	
+	<!-- Message List View -->
+	<key>Main</key>
+	<string>主界面</string>
+	<key>Edit</key>
+	<string>编辑</string>
+	<key>Done</key>
+	<string>完成</string>
+	<key>Message(%d)</key>
+	<string>短信(%d)</string>
+	
+	<!-- Message Detail View -->
+	<key>Back</key>
+	<string>返回</string>
+	<key>From:</key>
+	<string>自:</string>
+	<key>To:</key>
+	<string>至:</string>
+	<key>%d of %d</key>
+	<string>%d of %d</string>
+	<key>Delete</key>
+	<string>删除</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Delete this message ?</key>
+	<string>确定删除该短信？</string>
+	<key>Forward Message</key>
+	<string>转发短信</string>
+	<key>Reply Message</key>
+	<string>回复短信</string>
+	
+	<!-- Message Compose View -->
+	<key>New Message</key>
+	<string>新建短信</string>
+	<key>Please check recipient's name</key>
+	<string>请检查接收人信息是否正确</string>
+	<key>Message is empty</key>
+	<string>短信内容为空</string>
+	<key>Please check your recipient and message content!</key>
+	<string>请检查短信接收人信息及内容!</string>
+	<key>Message sent successfully</key>
+	<string>短信发送成功</string>
+	<key>Message sent failed</key>
+	<string>短信发送失败</string>
+	<key>OK</key>
+	<string>确定</string>
+	<key>Yes</key>
+	<string>是</string>
+	<key>No</key>
+	<string>否</string>
+	<key>UNSAVED_MESSAGE_CONFIRMATION</key>
+	<string>您有未保存的短信内容，确定退出么？</string>
+	<key>Smiley</key>
+	<string>表情</string>
+	<key>Contact</key>
+	<string>联系人</string>
+	<key>Template</key>
+	<string>常用短语</string>
+	<key>Send</key>
+	<string>发送</string>
+	
+	<!-- Message Searc View -->
+	<key>Type here to search message</key>
+	<string>在这里开始搜索</string>
+	
+	<!-- Message Table Cell -->
+	<key>Yesterday</key>
+	<string>昨天</string>
+
+	<!-- Templates -->
+	<key>Template List</key>
+	<string>常用短语</string>
+	<key>I am late, I will be there at</key>
+	<string>晚些到，抱歉！</string>
+	<key>I will be arriving at</key>
+	<string>我会在XX点到</string>
+	<key>I'm at home. Please call</key>
+	<string>请打我家里电话</string>
+	<key>I'm at work. Please call</key>
+	<string>请打我单位电话</string>
+	<key>I'm in a meeting, call me later at</key>
+	<string>正开会，稍后打</string>
+	<key>Meeting is cancelled.</key>
+	<string>会议已取消</string>
+	<key>Please call</key>
+	<string>请拨</string>
+	<key>See you at</key>
+	<string>到时候见！</string>
+	<key>See you in</key>
+	<string>老地方见</string>
+	<key>Sorry, I can't help you on this.</key>
+	<string>我尽力而为。</string>
+	<key>Thank you for using iSMS</key>
+	<string>感谢您使用iSMS</string>
+	
+	<key>Sending...</key>
+	<string>正在发送...</string>
+	<key>Select a recipient</key>
+	<string>选择一位联系人</string>
+	
+		<key>Preferences</key>
+	<string>Preferences</string>
+	
+	<!-- preference view -->
+	<key>Run Background</key>
+	<string>后台运行</string>
+	
+	<key>Preferences</key>
+	<string>首选项</string>
+	
+	<key>Prefs</key>
+	<string>首选项</string>
+	
+	<!-- since 2008-01-05 -->
+	<key>Chat</key>
+	<string>聊天</string>
+	<key>Call</key>
+	<string>拨电话</string>
+	<key>To</key>
+	<string>致</string>
+	<key>Select All</key>
+	<string>全部选中</string>
+	<key>Finish</key>
+	<string>完　成</string>
+	<key>Confirmation</key>
+	<string>发送确认</string>
+	<key>Send this message out?</key>
+	<string>发送该短信息？</string>
+	<key>Send Confirmation</key>
+	<string>短信发送前确认</string>
+	
+	<key>Save</key>
+	<string>保　存</string>	
+	
+	<key>Save As Template</key>
+	<string>存为常用短语</string>
+	
+	<key>Don't Save</key>
+	<string>不要保存</string>
+	
+	<key>Enable SB Helper</key>
+	<string>激活系统助手</string>
+
+	<key>ENABLE_SB_HELPER_NOTE</key>
+	<string> * 激活系统助手以后，您可以把iSMS设置为系统级的短信息程序。</string>
+	
+	<key>NEED_RESTART_ALERT</key>
+	<string>只有重新启动桌面后改动才能生效。</string>
+	<key>Restart Now</key>
+	<string>马上重启</string>
+	<key>Restart Later</key>
+	<string>稍后重启</string>
+		
+	<key>Default SMS App</key>
+	<string>缺省短信程序</string>
+	
+	<key>Auto Archive Messages</key>
+	<string>短信自动归档</string>
+	
+	<key>AUTO_ARCHIVE_NOTE</key>
+	<string> * 打开短信自动归档后，您将不再受1000条短信容量的限制！</string>
+	
+	<key>Customized</key>
+	<string>自定义</string>
+	
+	<key>Stock</key>
+	<string>系统预设</string>
+	
+	<key>Edit Templates</key>
+	<string>编辑短语</string>
+	
+	<key>Sending to</key>
+	<string>正在发送给</string>
+	
+	<key>SMS Black List</key>
+	<string>短信黑名单</string>
+	
+	<key>Edit Black List</key>
+	<string>编辑短信黑名单</string>
+	
+	<key>Add to Black List</key>
+	<string>添加短信黑名单</string>
+	
+	<key>Phone Number</key>
+	<string>电话号码</string>
+	
+	<key>Add</key>
+	<string>添加</string>
+	
+	<key>Delete and block</key>
+	<string>删除并列入黑名单</string>
+	
+	<!-- since 2008-04-19 -->
+	<key>Messages</key>
+	<string>短信</string>
+	
+	<key>Clear</key>
+	<string>清除</string>
+	
+	<key>Clear Conversation</key>
+	<string>清除对话内容</string>
+
+	<key>CLEAR_X</key>
+	<string>清除%@</string>
+	
+	<key>Inbox</key>
+	<string>收件箱</string>
+	<key>Sent</key>
+	<string>发件箱</string>
+	<key>Draft</key>
+	<string>草稿</string>
+	<key>Trash</key>
+	<string>回收箱</string>
+	
+	<key>Enable Conversation</key>
+	<string>对话模式</string>
+	
+	<key>New Message Preview</key>
+	<string>预览新短信</string>
+	
+</dict>
+</plist>
