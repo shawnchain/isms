@@ -1,0 +1,1 @@
+/opt/iphone/bin/arm-apple-darwin-gcc -isysroot /opt/iphone/heavenly/1.0.2/system -isystem /opt/iphone/include -isystem /opt/iphone/include/gcc/darwin/3.3 -isystem /opt/iphone/heavenly/1.0.2/include -std=gnu99 -fsigned-char -framework Foundation -framework CoreFoundation -DNDEBUG TestNotify.m -o TestNotify
